@@ -18,7 +18,7 @@ A lista de assuntos presentes no material é a seguinte:
 7. Padrões Arquiteturais e de Projetos
 8. Engenharia de Software Orientada a Modelos
 9. Engenharia de Software Inteligente
-10.Segurança no Ciclo de Vida de Desenvolvimento de Software (SSDLC)
+10. 10.Segurança no Ciclo de Vida de Desenvolvimento de Software (SSDLC)
 
 ⚠️**Aviso Importante**
 
