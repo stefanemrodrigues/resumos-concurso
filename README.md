@@ -20,7 +20,7 @@ A lista de assuntos presentes no material é a seguinte:
 9. Engenharia de Software Inteligente
 10.Segurança no Ciclo de Vida de Desenvolvimento de Software (SSDLC)
 
-⚠️** Aviso Importante**
+⚠️**Aviso Importante**
 
 Este é um material de estudo pessoal e não possui qualquer vínculo oficial. O conteúdo representa a minha interpretação da bibliografia e, embora tenha sido preparado com cuidado, pode conter erros ou omissões.
 
